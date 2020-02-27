@@ -1,2 +1,0 @@
-# Updates
-VTM Software Updates
