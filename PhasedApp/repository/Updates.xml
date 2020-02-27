@@ -11,9 +11,9 @@
   <ProductUrl>https://www.aos-ndt.com/products-landing-page/</ProductUrl>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="8039379" UncompressedSize="48954728"/>
+  <UpdateFile UncompressedSize="48954728" OS="Any" CompressedSize="8039371"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>9949b3c75c51c7415326711e0b997b12d1747ec7</SHA1>
+  <SHA1>1bb3fdf4053b810b4302827e96db2734aab4b978</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>ru.votum.chameleon</Name>
@@ -24,9 +24,9 @@
   <ProductUrl>https://votum.ru/production/flawDetectors/hameleon-32+</ProductUrl>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="7546872" UncompressedSize="47997480"/>
+  <UpdateFile UncompressedSize="47997480" OS="Any" CompressedSize="7546871"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4f0177c06066e02ae0d6e1bc88ca44683f342cfd</SHA1>
+  <SHA1>632a518ad9bed7ba6c2a0c35b6d966f60474d9e8</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>ru.votum.config</Name>
@@ -37,9 +37,9 @@
   <ProductUrl>https://votum.ru/production/flawDetectors/hameleon-32+</ProductUrl>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="32964" UncompressedSize="1729918"/>
+  <UpdateFile UncompressedSize="1729918" OS="Any" CompressedSize="33169"/>
   <DownloadableArchives>settings.7z,content.7z</DownloadableArchives>
-  <SHA1>d04c3e2e2bb25e93b452edb4b58b58afac4570e6</SHA1>
+  <SHA1>81ac1c96f527cba47917fc1f038bcd771af2693a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>ru.votum.phasedarrayapp</Name>
@@ -49,12 +49,12 @@
   <ReleaseDate>2020-02-26</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="26101227" UncompressedSize="99591574"/>
+  <UpdateFile UncompressedSize="99591574" OS="Any" CompressedSize="26101276"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,position.7z,printsupport.7z,sqldrivers.7z,styles.7z,translations.7z,Visual Styles.7z,content.7z</DownloadableArchives>
   <UserInterfaces>install.ui,error.ui</UserInterfaces>
   <Licenses>
    <License name="Using VTM application in development phase" file="license.txt"/>
   </Licenses>
-  <SHA1>96db6807ad627814c04addfd4b5ee2897cc43101</SHA1>
+  <SHA1>5d0b3dc6ac8a37bb93a8a8275913d0cffdf3ec49</SHA1>
  </PackageUpdate>
 </Updates>
